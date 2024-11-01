@@ -211,8 +211,8 @@ var APP_DATA = {
         {
           "yaw": -1.7652987491688137,
           "pitch": 0.009641470177495393,
-          "title": "Title",
-          "text": "Text"
+          "title": "街訪",
+          "text": "因為年齡層廣，這裡也是接訪的絕佳地點。"
         }
       ]
     },
@@ -258,7 +258,14 @@ var APP_DATA = {
           "target": "1-2"
         }
       ],
-      "infoHotspots": []
+      "infoHotspots": [
+        {
+          "yaw": 1.2678053753542855,
+          "pitch": 0.04763784460073239,
+          "title": "對抗強度",
+          "text": "這邊對抗強度很高，通常都是年輕的高中生和大學生的天下。"
+        }
+      ]
     }
   ],
   "name": "Project Title",
